@@ -11,7 +11,8 @@ Take a look at some features of my website:
 HomePage
 - ![Screenshot 2024-12-20 092932](https://github.com/user-attachments/assets/fbe13aff-911c-4029-b579-8443f979f36e)
 Login Page
-- ![Screenshot 2024-12-20 092947](https://github.com/user-attachments/assets/3f3c38a5-5c4a-4767-9510-1015047a7975)
+- ![Screenshot 2024-12-20 115515](https://github.com/user-attachments/assets/816482e5-66ac-4820-b89b-a1e8412ddadf)
+
 
 
 **Contribution and Credit**
