@@ -7,10 +7,38 @@ body > a{
     display: inline-block;
     margin: 1rem;
     padding: 1rem;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     color: white;
     text-decoration: none;
 }
 main > button, label > span, label > input, label > textarea{
     display: block;
+    margin: ;
 }
+
+body{
+    background-image: url(/img/abstract-grey-metallic-overlap-blue-light-hexagon-vector.jpg);
+    text-align: center;
+    color: white;
+}
+
+a:hover{
+    text-decoration: underline;
+    background-color: rgb(48, 167, 246);
+    box-shadow: 0px 0px 10px rgb(52, 105, 210); /* Added a subtle shadow */
+    transform: scale(1.05);
+}
+
+input{
+    margin:auto;
+}
+
+.logo {
+    width: 100px; /* Adjust size as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto; /* Center the logo */
+    margin-top: 10px;
+}
+
+

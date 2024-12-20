@@ -52,7 +52,11 @@ function getMessage(m) {
   });//end click
   
   const like = m.likes.find(like=>like.username===localStorage.username);
-  b.innerText = like != undefined ? "UnLike" : "Like";
+  if (like !== undefined) {
+    b.innerHTML = "url/.";
+} else {
+    b.innerHTML = "Like";
+}
   e.appendChild(b);
   return e;
 }
